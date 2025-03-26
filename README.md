@@ -16,4 +16,8 @@ Summary
 
 Farewell
 
+Things to Do:
+
+- Establish a GitLib account (this allows for storage and repo larger file sizes)
+
 
